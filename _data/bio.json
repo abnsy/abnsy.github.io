@@ -17,19 +17,12 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Machine Learning/AI",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Scientific Computing",
       "keywords": [
       ]
     }
@@ -41,21 +34,21 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "R",
+        "Python",
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Pycharm",
+        "Jupyterbook"
+        "Tensorflow"
+        "Opencv"
       ]
     }
     
